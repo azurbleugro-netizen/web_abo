@@ -1,0 +1,15 @@
+.screamer{
+    margin-top: 300px;
+}
+
+body{
+    background: linear-gradient(to right, yellow, red),
+    url("./IMAGE/fire_.jpg");
+    background-blend-mode: overlay;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.page{
+    margin-top: 370px;
+}

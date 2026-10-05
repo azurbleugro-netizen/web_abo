@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right, rgb(0, 195, 255), rgb(98, 0, 255));
+}
+
+.manouche{
+    margin-top: 80px;
+}
+
+.page{
+    margin-top: 80px;
+}
+
+.manon{
+    color: white;
+    margin-top: 90px;
+}
+
+img{
+border-radius: 50px;
+border: solid 5px;
+}

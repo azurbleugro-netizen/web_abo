@@ -1,0 +1,20 @@
+.boutton_feu{
+    margin-top: -50px;
+    margin-left: 1390px;
+}
+
+.feu_eau{
+    margin-top: 300px;
+}
+
+body{
+    background: linear-gradient(to right, rgb(0, 238, 255), rgb(0, 30, 255)),
+    url("./IMAGE/water.jpg");
+    background-blend-mode: overlay;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.page{
+    margin-top: 370px;
+}
